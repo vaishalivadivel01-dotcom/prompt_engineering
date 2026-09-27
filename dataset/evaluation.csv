@@ -1,0 +1,6 @@
+Prompt Technique,Clarity,Relevance,Accuracy,Overall Observation
+Zero-Shot,Medium,Medium,Medium,Works without examples but may give general responses
+One-Shot,Good,Good,Good,One example helps guide the response
+Few-Shot,Very Good,Very Good,Good,Multiple examples provide better guidance
+Role Prompting,Very Good,Very Good,Good,Assigning a role makes the response more focused
+Chain-of-Thought,Good,Very Good,Good,Encourages a structured response
